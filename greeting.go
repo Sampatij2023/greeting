@@ -12,3 +12,7 @@ func Hello() {
 func Hi() {
 	fmt.Println("Hi!")
 }
+//code by deepak".
+func GiveMeSomeshine(){
+	fmt.Println("Go get some life")
+}
